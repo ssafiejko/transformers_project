@@ -1,7 +1,4 @@
 # Audio Classification with Transformers
-
-![Audio Processing Pipeline](https://via.placeholder.com/800x300?text=Audio+Classification+Pipeline)
-
 This repository contains state-of-the-art transformer-based models for audio classification tasks, with support for both custom architectures and pretrained models from HuggingFace.
 
 ##  Features
